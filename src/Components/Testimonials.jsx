@@ -9,33 +9,33 @@ import 'swiper/css/pagination';
 
 const testimonials = [
     {
-        name: "Mathew Johnston",
+        name: "Mitchell Dunst",
         role: "CEO and founder of 4MILL",
-        image: "https://nextpak.org/wp-content/uploads/2025/07/image-77.jpg",
+        image: "/testimonials/mitchell.jpg",
         content: "Lymora went truly above and beyond all of my expectations. They really understood the requirements and were able to offer better solutions than what I had thought of."
     },
     {
-        name: "Melissa Wheeler",
+        name: "Margaret kepler",
         role: "Business owner",
-        image: "https://nextpak.org/wp-content/uploads/2025/07/image-78.jpg",
+        image: "/testimonials/margaret.jpg",
         content: "The expertise and creativity brought my vision to life. The website they crafted not only looks stunning, but also functions flawlessly. Communication was seamless at every step."
     },
     {
-        name: "Luke Edwin",
+        name: "Enzo Martinez",
         role: "Company CEO",
-        image: "https://nextpak.org/wp-content/uploads/2025/07/image-76.jpg",
+        image: "/testimonials/enzo.jpg",
         content: "I’ve been working with Lymora for nearly two years on various web projects. They consistently deliver quality work that meets both my expectations and those of my clients."
     },
     {
-        name: "Jim Beecham",
+        name: "Sarah Thompson",
         role: "Sports Website Owner",
-        image: "https://nextpak.org/wp-content/uploads/2025/07/image-75.jpg",
+        image: "/testimonials/sarah.jpg",
         content: "I’m a satisfied customer from the USA working with Lymora on my sports website. Their programmers provide daily progress and the team delivers creative, efficient solutions at a great price."
     },
     {
-        name: "Enoque Panzo",
+        name: "Enrique Garcia",
         role: "Company CEO",
-        image: "https://nextpak.org/wp-content/uploads/2025/07/Rectangle-137.jpg",
+        image: "/testimonials/enrique.jpg",
         content: "Working with Lymora for almost three years, their dedication to every project has been outstanding. Quick responses and consistent reliability make them a pleasure to work with."
     }
 ];
